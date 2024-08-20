@@ -100,7 +100,6 @@
 			<td style="text-align:center">Арктангенс</td>
 			<td style="text-align:center">atan(a) / arctg(a) / arctan(a)</td>
 		</tr>
-
 		<tr>
 			<td style="text-align:center">Натуральный логарифм</td>
 			<td style="text-align:center">ln(a) / logE(a) / loge(a)</td>
