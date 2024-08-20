@@ -1,4 +1,4 @@
-<h1>SmartCalc. V2.0<img src="QT/TheFlash.png" width="150" height="197" 
+<h1>SmartCalc. V2.0<img src="Technical/TheFlash.png" width="150" height="197" 
 		alt="TheFlashIcon" align="right" 
 		vspace="0" hspace="10"></h1>
 
